@@ -5,7 +5,7 @@ export default class App extends Component{
     return(
       <View>
         <Text>
-          ola mundo!!!!!
+          ola mundo!
         </Text>
       </View>
     )
